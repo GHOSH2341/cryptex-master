@@ -2,6 +2,8 @@
 
 Cryptor is a responsive cryptocurrency website built with HTML, CSS, and JavaScript that works across all devices.
 
+## Screenshot
+![Screenshot (362)](https://github.com/GHOSH2341/Cryptor/assets/109242925/937e78bd-e50b-4e4b-b9f3-d160e66681f6)
 
 
 ## Features
