@@ -24,7 +24,7 @@ Cryptor is a responsive cryptocurrency website built with HTML, CSS, and JavaScr
 
 ## Run Locally
 
-To run Cryptex locally, run this command on your git bash:
+To run Cryptex locally, run this command on your git bash
 
 
 ### Linux and macOS
